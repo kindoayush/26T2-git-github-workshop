@@ -12,4 +12,5 @@ We hope this workshop helps you learn version control and collaboration.
 Thank you for **joing** the workshop.
 
 * There is a typo in the above line. Create an issue to correct this typo
-* Also, contribute to this by adding your file as per the task 
+* Also, contribute to this by adding your file as per the task
+* This is a sample line.
